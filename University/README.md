@@ -1,4 +1,4 @@
-# Web Technologies -- Solent University
+# Web Technologies
 
 This repository includes code for the lectures and seminars of the Web Technologies module.
 
